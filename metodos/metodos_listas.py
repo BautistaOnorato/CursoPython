@@ -4,7 +4,7 @@ numLista = [True, 10, 3, 56, 23, False, 0.5]
 # devuelve la longitud
 len(lista)
 
-# agregando con append simialra a push()
+# agregando con append similar a push()
 lista.append("chau")
 
 # agrgeando unelemento en una posicion especifica
